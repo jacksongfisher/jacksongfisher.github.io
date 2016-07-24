@@ -85,6 +85,15 @@ h6 {
     }
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.p {
+    margin-top: 24px;
+}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;
@@ -116,7 +125,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-jf.jpg) no-repeat center center;
     background-size: cover;
 }
 
