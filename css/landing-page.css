@@ -180,6 +180,11 @@ p {
     margin-top: 0;
 }
 
+.italic {
+    font-style: italic;
+    display: inline;
+}
+
 .wtr {
     font-size: 14px;
     font-weight: 400;
