@@ -91,6 +91,9 @@ p {
     vertical-align: top;
 }
 
+.center {
+ float: center;    
+}
 .p1 {
     margin-top: 24px;
 }
