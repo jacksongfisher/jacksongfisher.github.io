@@ -36,14 +36,14 @@ p {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-jf-2.jpg) no-repeat center center;
+    background: url(../img/rinjani.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 24%;
+    padding-bottom: 23.3%;
 }
 
 .intro-message > h1 {
